@@ -48,6 +48,7 @@ contributing to **data-driven decisions** and
 
 Dashboard design, data storytelling, on-site technical analysis, cross-functional communication
 
+![📊 MindMap](images/MindMap.png)
 
 # 📌 Disclaimer
 
