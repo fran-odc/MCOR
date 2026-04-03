@@ -18,7 +18,8 @@ During my one-year internship in **Data & Analytics**, I worked on designing:
 to enhance **collaboration between technical and business teams**.
 
 My role combined data design, technical support, and on-site analysis,
-contributing to **data-driven decisions** and **more efficient communication across stakeholders**.
+contributing to **data-driven decisions** and
+**more efficient communication across stakeholders**.
 
 
 # 🚀 Main Responsibilities & Achievements
@@ -43,7 +44,9 @@ contributing to **data-driven decisions** and **more efficient communication acr
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-- **Core Skills**: Dashboard design, data storytelling, on-site technical analysis, cross-functional communication
+- **Core Skills**:
+
+Dashboard design, data storytelling, on-site technical analysis, cross-functional communication
 
 
 # 📌 Disclaimer
