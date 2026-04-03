@@ -35,6 +35,7 @@ contributing to data-driven decisions and more efficient communication across st
 # 🛠️ Tools & Skills
 
 - **Visualization Platforms**:
+  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-0C46D8?style=for-the-badge&logo=bubble&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
