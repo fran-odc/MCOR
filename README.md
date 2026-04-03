@@ -3,13 +3,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Profile views](https://views.igorkowalczyk.dev/api/badge/fran-odc?style=flat)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-0C46D8?style=for-the-badge&logo=bubble&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
 📅 **Duration**: February 2015 – February 2016
 
 🎓 **Position**: Engineering Intern – Data & Analytics
@@ -41,7 +34,13 @@ contributing to data-driven decisions and more efficient communication across st
 
 # 🛠️ Tools & Skills
 
-- **Visualization Platforms**: Power BI, Bubbl.us, MS Office
+- **Visualization Platforms**:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Bubble.io](https://img.shields.io/badge/Bubble.io-0C46D8?style=for-the-badge&logo=bubble&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 - **Core Skills**: Dashboard design, data storytelling, on-site technical analysis, cross-functional communication
 
