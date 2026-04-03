@@ -15,10 +15,10 @@
 During my one-year internship in **Data & Analytics**, I worked on designing:
 - internal tools and
 - mind-map-based visualizations
-to enhance collaboration between technical and business teams.
+to enhance **collaboration between technical and business teams**.
 
 My role combined data design, technical support, and on-site analysis,
-contributing to data-driven decisions and more efficient communication across stakeholders.
+contributing to **data-driven decisions** and **more efficient communication across stakeholders**.
 
 
 # 🚀 Main Responsibilities & Achievements
