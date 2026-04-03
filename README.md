@@ -2,6 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Profile views](https://views.igorkowalczyk.dev/api/badge/fran-odc?style=flat)
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Bubble.io](https://img.shields.io/badge/Bubble.io-0C46D8?style=for-the-badge&logo=bubble&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
