@@ -22,7 +22,7 @@ contributing to **data-driven decisions** and
 **more efficient communication across stakeholders**.
 
 
-# 🚀 Main Responsibilities & Achievements
+# 🚀 Main Achievements
 
 🧩 **Design of Internal Tools**: Developed dashboards and data visualizations, improving collaboration between stakeholders.
 
