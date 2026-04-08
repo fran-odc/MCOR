@@ -10,6 +10,9 @@
 🏢 **Organization**: [MCOR](https://marcellus.psu.edu/about-mcor/what-we-do/)
 
 
+![📊 MindMap](images/MindMap.png)
+
+
 # 🧭 Overview
 
 During my one-year internship in **Data & Analytics**, I worked on designing:
@@ -48,7 +51,6 @@ contributing to **data-driven decisions** and
 
 Dashboard design, data storytelling, on-site technical analysis, cross-functional communication
 
-![📊 MindMap](images/MindMap.png)
 
 # 📌 Disclaimer
 
